@@ -1,0 +1,74 @@
+$RESOURCES = [
+  'en-US' => [
+    'err-404' => [
+      'NOTFOUND_TITLE' => "404 NOT FOUND"  
+    ],
+    'footer' => [
+      'COPYRIGHTS' => "Copyrights @ $1, $2 and the $3 contributors. Some rights reserved.",
+      'TITLE_FEEDBACK' => "Send feedback"  
+    ],
+    'headerContent' => [
+      'CREDITS_TITLE' => "Credits",
+      'CREDITS_AUTHORS' => "D.Bonini [my25mb@aol.com]\nQ.Jia [qjia@gmx.com]",
+      'MENU_LOGIN' => "Login",
+      'MENU_DONATE' => "Donate",
+      'MENU_DONATE_MONEY' => "Money",
+      'MENU_DONATE_HARDWARE' => "Hardware",
+      'MENU_SUBMIT_RSS' => "Submit RSS",
+      'MENU_RSSFYER' => "RSSfyier",  
+      'MENU_FEEDBACK' => "Send feedback",  
+      'MENU_SETTINGS' => "Settings",
+      'MENU_ABOUT' => "About",  
+      'MENU_TERMS' => "Terms",  
+      'MENU_RETURN' => "Return",
+      'BUT_TITLE_PARENT' => "CLOSE",          
+      'BUT_TITLE_SEARCH_OPTIONS' => "Search options",
+      'INPUT_TITLE_SEARCH2-M' => "Write here your text...",  
+      'BUT_TITLE_SEARCH-M' => "Search now!",
+      'PLACEHOLDER_SEARCH' => "SEARCH",
+      'TITLE_SETTINGS' => "SETTINGS",
+      'SELECT_LANGUAGE_OPT1' => "LANGUAGE",
+      'SELECT_STYLE_OPT1' => "MATERIAL STYLE",  
+      'SELECT_STYLE_OPT_DAY' => "DAY",
+      'SELECT_STYLE_OPT_NIGHT' => "NIGHT",
+      'BUT_SETBACKGROUND' => "SET BACKGROUND",  
+      'LINK_DELBACKGROUND' => "DELETE BACKGROUND",
+      'BUTTON_SAVE_SETTINGS' => "SAVE SETTINGS"
+    ],
+    'search' => [
+      'TITLE' => "RSS DUCK: the search engine of every duck.",
+      'DESCRIPTION' => "Every duck its feed.", 
+      'HAL_DONATE' => "Donate",
+      'HAL_DONATE_MONEY' => "Money",
+      'HAL_DONATE_HARDWARE' => "Hardware",
+      'HAL_SUBMIT_RSS' => "Submit RSS",
+      'HAL_RSSFYIER' => "RSSfyier",
+      'BUT_TITLE_SEARCH_OPTIONS' => "Search Options",
+      'INPUT_TITLE_SEARCH2-M' => "Type here your text...",  
+      'BUT_TITLE_SEARCH-M' => "Search now!",  
+      'PLACEHOLDER_SEARCH' => "SEARCH",
+      'SUBDOMAIN_PREFIX' => "More depth",
+      'SUBDOMAIN_ART' => "Art",  
+      'SUBDOMAIN_FOOD' => "Food",
+      'SUBDOMAIN_RESTAURANTS' => "Restaurants",  
+      'SUBDOMAIN_TECH' => "Technology",  
+      'SUBDOMAIN_SOFTWARE' => "Software",    
+      'SUBDOMAIN_HARDWARE' => "Hardware",
+      'SUBDOMAIN_OTHERS' => "Others"
+    ],
+    'searchResults' => [
+      'TITLE_PREFIX' => "SEARCH:",
+      'PAGINATION_BEGINNING_TITLE' => "Go to the first page",
+      'PAGINATION_PAGE_TITLE' => "Go to the page...",  
+      'PAGINATION_END_TITLE' => "Go to the last page",
+      'NORESULT' => "No result... But what you are searching for?&nbsp;<a href='/sendrss'>Help us</a>"                  
+    ],
+    'sendrss' => [
+      'TITLE' => "SEND RSS",
+      'LANG' => "Lang:",
+      'CATEGORY' => "Category:",  
+      'RSS_LINK' => "RSS link:",
+      'PLACEHOLDER_RSS_LINK' => "YOURSITE.COM/RSS"
+    ]
+  ]
+]

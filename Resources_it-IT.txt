@@ -1,0 +1,74 @@
+$RESOURCES = [
+  'it-IT' => [
+    'err-404' => [
+      'NOTFOUND_TITLE' => "404 NON TROVATO"  
+    ],
+    'footer' => [
+      'COPYRIGHTS' => "Copyright @ $1, $2 e i contributori di $3. Alcuni diritti riservati.",
+      'TITLE_FEEDBACK' => "Invia segnalazione"      
+    ],        
+    'headerContent' => [
+      'CREDITS_TITLE' => "Crediti",        
+      'CREDITS_AUTHORS' => "D.Bonini [my25mb@aol.com]\nQ.Jia [qjia@gmx.com]",  
+      'MENU_LOGIN' => "Login",
+      'MENU_DONATE' => "Dona",
+      'MENU_DONATE_MONEY' => "Soldi",
+      'MENU_DONATE_HARDWARE' => "Hardware",
+      'MENU_SUBMIT_RSS' => "Invia RSS",
+      'MENU_RSSFYER' => "RSSfyier",    
+      'MENU_FEEDBACK' => "Manda un feedback",  
+      'MENU_SETTINGS' => "Impostazioni",
+      'MENU_ABOUT' => "Info su",  
+      'MENU_TERMS' => "Termini",  
+      'MENU_RETURN' => "Indietro",
+      'BUT_TITLE_PARENT' => "CHIUDI",  
+      'BUT_TITLE_SEARCH_OPTIONS' => "Opzioni di ricerca",
+      'INPUT_TITLE_SEARCH2-M' => "Scrivi qui il tuo testo...",  
+      'BUT_TITLE_SEARCH-M' => "Cerca ora!",
+      'PLACEHOLDER_SEARCH' => "CERCA",
+      'TITLE_SETTINGS' => "IMPOSTAZIONI",
+      'SELECT_LANGUAGE_OPT1' => "LINGUA",
+      'SELECT_STYLE_OPT1' => "STILE MATERIALE",  
+      'SELECT_STYLE_OPT_DAY' => "GIORNO",
+      'SELECT_STYLE_OPT_NIGHT' => "NOTTE",
+      'BUT_SETBACKGROUND' => "IMPOSTA BACKGROUND",  
+      'LINK_DELBACKGROUND' => "CANCELLA BACKGROUND",
+      'BUTTON_SAVE_SETTINGS' => "SALVA IMPOSTAZIONI"
+    ],
+    'search' => [
+      'TITLE' => "RSS DUCK: il motore di ricerca per tutte le papere.",
+      'DESCRIPTION' => "Ad ogni papera il suo feed.",         
+      'HAL_DONATE' => "Dona",
+      'HAL_DONATE_MONEY' => "Soldi",
+      'HAL_DONATE_HARDWARE' => "Hardware",
+      'HAL_SUBMIT_RSS' => "Invia RSS",
+      'HAL_RSSFYIER' => "RSSfyier",
+      'BUT_TITLE_SEARCH_OPTIONS' => "Opzioni di ricerca",
+      'INPUT_TITLE_SEARCH2-M' => "Scrivi qui il tuo testo...",  
+      'BUT_TITLE_SEARCH-M' => "Cerca ora!",
+      'PLACEHOLDER_SEARCH' => "CERCA",
+      'SUBDOMAIN_PREFIX' => "In dettaglio:",
+      'SUBDOMAIN_ART' => "Arte",  
+      'SUBDOMAIN_FOOD' => "Cibo",
+      'SUBDOMAIN_RESTAURANTS' => "Ristoranti",  
+      'SUBDOMAIN_TECH' => "Tecnologia",  
+      'SUBDOMAIN_SOFTWARE' => "Software",    
+      'SUBDOMAIN_HARDWARE' => "Hardware",
+      'SUBDOMAIN_OTHERS' => "Altri"
+    ],
+    'searchResults' => [
+      'TITLE_PREFIX' => "RICERCA:",
+      'PAGINATION_BEGINNING_TITLE' => "Vai alla prima pagina",
+      'PAGINATION_PAGE_TITLE' => "Vai alla pagina...",  
+      'PAGINATION_END_TITLE' => "Vai all'ultima pagina",
+      'NORESULT' => "Nessun risultato... Ma cosa cerchi?&nbsp;<a href='/sendrss'>Aiutaci</a>"  
+    ],
+    'sendrss' => [
+      'TITLE' => "INVIO RSS",
+      'LANG' => "Lang:",
+      'CATEGORY' => "Categoria:",  
+      'RSS_LINK' => "Link RSS:",
+      'PLACEHOLDER_RSS_LINK' => "TUOSITO.IT/RSS"
+    ]
+  ]
+]
